@@ -1,1 +1,1 @@
-# Discord-Bot_Wolf-Corp
+# Discord bot for WolFcorp gaming chanel
